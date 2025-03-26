@@ -100,7 +100,7 @@ Change this if you're analyzing a different sensor.
 ### 4. Run the script
 
 ```bash
-python script_name.py
+python anomalies.py
 ```
 
 This will:
